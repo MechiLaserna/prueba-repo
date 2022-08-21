@@ -13,3 +13,8 @@ color: blue;
     text-align: center;
     margin: 20px;
 }
+
+. flex-index {
+    display: flex;
+    flex-wrap: wrap;
+}
