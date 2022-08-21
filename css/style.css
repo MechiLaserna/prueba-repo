@@ -1,10 +1,15 @@
-*{
+* {
     margin: 0%;
     padding: 0%;
-    box-sizing: border-box;
+
+}
+. h1 {
+font-size: large;
+color: blue;
 }
 
-. h1 {
-    font-family: 'Trebuchet MS', sans-serif;
-    color: blue;
+. hola-mundo {
+    background-color: blanchedalmond;
+    text-align: center;
+    margin: 20px;
 }
